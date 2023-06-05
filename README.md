@@ -21,6 +21,7 @@ explanation and usage instructions.
 
 - Simple Factory
 - Singleton
+- Builder
 
 Feel free to explore the directories and learn more about each design 
 pattern implementation.
