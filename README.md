@@ -22,6 +22,12 @@ explanation and usage instructions.
 - Simple Factory
 - Singleton
 - Builder
+- Facade
+- Adapter
+- Composite
+- Decorator
+- Observer
+- Strategy
 
 Feel free to explore the directories and learn more about each design 
 pattern implementation.
